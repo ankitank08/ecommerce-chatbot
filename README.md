@@ -5,18 +5,6 @@ This chatbot leverages product and order data from CSV files to respond to user 
 
 ---
 
-## Project Structure
-
-ecommerce-chatbot/
-├── backend/
-│ ├── dataset/ # CSV files: products.csv, orders.csv, users.csv
-│ ├── utils/ # Utility files, e.g., loadCSV.js
-│ ├── index.js # Backend API & chatbot logic (Express.js)
-├── frontend/
-│ ├── src/
-│ ├── App.jsx # React frontend chatbot UI
-├── README.md # This README file
-
 
 ---
 
