@@ -5,9 +5,6 @@ This chatbot leverages product and order data from CSV files to respond to user 
 
 ---
 
-
----
-
 ## Setup & Run
 
 ### Backend
